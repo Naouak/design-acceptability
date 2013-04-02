@@ -11,5 +11,7 @@ All this checklist must be at [✓] and not at [✗] to accept a design product.
 - [ ] Colour palette must be given on another design file
 - [ ] :hover given
 - [ ] alert, error, etc, on forms must be given
+- [ ] buttons looks like they are clickable
+- [ ] Text can be longer/shorter almost everywhere
 
 Some advices there: [photoshopetiquette.com](http://www.photoshopetiquette.com/)
